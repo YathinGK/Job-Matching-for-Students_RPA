@@ -1,0 +1,49 @@
+Student Name,Job Title,Required Skills,Experience Level,Employment Type,Sector,CGPA,Qualification,Masters,Company Name,Age
+Nimith,Data analyst,"SQL, PL/SQL, MySQL, PostgreSQL, Oracle, Query optimization, Security and compliance",Junior,full time,IT,8,Bachelor of Engineering,Not Required,BOSCH,22-25 
+Yathin,Web Developer,"Nmap, Metasploit, Encryption and security protocols, SIEM tools (Splunk, QRadar), Ethical hacking",Fresher,full time,IT,8,Bachelor of Engineering,Not Required,HCL Technologies,22-24
+Vishak,Data Scientist,"IT strategy and planning, Cloud computing knowledge, Change management, Communication skills, Problem-solving skills",Senior,full time,IT,7.5,Bachelor of Engineering,Not Required,BOSCH,31-40
+Prathyush,Cloud Engineer,"Figma, Adobe XD, Sketch, Wireframing and prototyping, HTML/CSS basics",Mid-level,full time,IT,9,Bachelor of Engineering,Required,Cisco Systems,26-30
+Suhas,DevOps Engineer,"Jenkins, GitLab, CircleCI, Kubernetes orchestration",Senior,full time,IT,8,Bachelor of Engineering,Required,Cisco Systems,31-40
+Ananya,Database Administrator,"Game engines (Unity, Unreal Engine), C++, C#, Python, 3D modeling and animation, Game physics, Graphics optimization",Mid-level,full time,IT,8,Bachelor of Engineering,Not Required,Shopify,26-30
+Moulya,Cybersecurity Analyst,"Blockchain platforms (Ethereum, Hyperledger), Smart contracts (Solidity), Cryptography, Consensus algorithms, Distributed ledger systems",Fresher,full time,IT,8.5,Bachelor of Engineering,Not Required,Tech Mahindra,22-24
+Pooja,IT Consultant,"IT strategy and planning, Cloud computing knowledge, Change management, Communication skills, Problem-solving skills",Senior,full time,IT,7.5,Bachelor of Engineering,Not Required,BOSCH,31-40
+Gagan,UI/UX Designer,"Jenkins, GitLab, CircleCI, Kubernetes orchestration",Junior,full time,IT,7.5,Bachelor of Engineering,Required,Tech Mahindra,22-25
+Rohith,Game Developer,"Game engines (Unity, Unreal Engine), C++, C#, Python, 3D modeling and animation, Game physics, Graphics optimization",Mid-level,full time,IT,9,Bachelor of Engineering,Required,Nvidia,26-30
+Nitin,ERP Specialist,"TensorFlow, PyTorch, ",Senior,full time,IT,8,Bachelor of Engineering,Not Required,SAP,31-40
+Prakash,Blockchain Developer,"Blockchain platforms (Ethereum, Hyperledger), Smart contracts (Solidity), Cryptography, Consensus algorithms, Distributed ledger systems",Mid-level,full time,IT,9,Bachelor of Engineering,Required,Hyperledger,26-30
+Brindha,Full Stack Developer,"SAP, Oracle, Microsoft Dynamics, Business process analysis, Data migration, SQL for ERP databases",Senior,full time,IT,8,Bachelor of Engineering,Not Required,HCL Technologies,31-40
+Ramya,Artificial Intelligence Engineer,"AI frameworks (TensorFlow, PyTorch), Programming (Python, R), Data science and machine learning, Cloud AI tools, Natural Language Processing (NLP)",Senior,full time,IT,8,Bachelor of Engineering,Required,Tech Mahindra,31-40
+Rahul,Technical Writer,"Front-end (HTML, CSS, JavaScript, React), Back-end (Node.js, Django, Flask), Databases (SQL, NoSQL), API development, Version control (Git)",Fresher,full time,IT,8,Bachelor of Engineering,Not Required,TCS,22-24
+Ashwin,IoT Engineer,"Ethical hacking tools (Metasploit, Burp Suite), Vulnerability analysis, Scripting for testing (Python, Bash), Network security, Report writing",Mid-level,full time,IT,8,Bachelor of Engineering,Not Required,BOSCH,26-30
+Naveen,Scrum Master,"Python, SAP",Senior,full time,IT,8,Bachelor of Engineering,Required,Atlassian,31-40
+Harsha,Penetration Tester,"Documentation tools (MS Word, Google Docs), Technical knowledge (coding, IT systems), Simplifying technical concepts, Editing and proofreading, Communication skills",Mid-level,full time,IT,8,Bachelor of Engineering,Not Required,Accenture,26-30
+Rohan,IT Auditor,"IoT protocols (MQTT, CoAP), Embedded systems (Raspberry Pi, Arduino), Programming (C, Python), Cloud platforms for IoT (AWS IoT, Azure IoT), Networking and sensors",Senior,full time,IT,9,Bachelor of Engineering,Not Required,TCS,31-40
+Chirag,RPA Developer,"HTML, CSS, JavaScript, React, Node.js",Mid-level,full time,IT,8,Bachelor of Engineering,Required,BOSCH,26-30
+Sanjana,Embedded Systems Engineer,"AWS, Azure, Google Cloud, Kubernetes and Docker",Fresher,full time,IT,9,Bachelor of Engineering,Required,Nvidia,22-24
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,"AI frameworks (TensorFlow, PyTorch), Programming (Python, R), Data science and machine learning, Cloud AI tools, Natural Language Processing (NLP)",,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,"Compliance standards (ISO, GDPR), Risk assessment, IT security tools, Analytical skills, Documentation and reporting",,,,,,,,
+,,"RPA tools (UiPath, Blue Prism, Automation Anywhere), Process automation design, Debugging and testing, Workflow management",,,,,,,,
+,,"Microcontroller programming, Real-time operating systems (RTOS), Hardware knowledge, C/C++ programming, Debugging embedded systems",,,,,,,,
