@@ -1,1 +1,5 @@
 # Job-Matching-for-Students_RPA
+
+This project focuses on an Automated Job Matching System built using UiPath RPA technology. The system is designed to simplify the job search process by intelligently matching a candidate’s resume with relevant job descriptions. Leveraging UiPath's capabilities, the program automates the extraction of key information from the user’s resume, such as skills, experience, and qualifications, and compares this data against job descriptions retrieved from various sources. The result is an efficient and accurate job-matching process, reducing manual effort and streamlining the hiring workflow.
+
+The automation includes functionalities like resume parsing, data extraction, and job description analysis, ensuring optimal matching based on the candidate’s preferences and profile. This innovative solution demonstrates the potential of RPA in transforming traditional job search methods into a smart, automated process, providing enhanced user experience and saving time for both applicants and recruiters.
